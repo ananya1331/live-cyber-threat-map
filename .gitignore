@@ -1,0 +1,9 @@
+﻿.env
+__pycache__/
+*.pyc
+*.mmdb
+*.tar.gz
+GeoLite2*/
+static/debug.html
+extract_mmdb.py
+campaign_detection.py
